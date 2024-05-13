@@ -1,0 +1,31 @@
+* {
+    font-family: "nanumSquareNeo";
+    text-align: center;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.logo,
+.nav,
+.footer1,
+.footer2,
+.footer3 {
+    line-height: 100px;
+}
+
+#slider {
+    line-height: 300px;
+}
+
+.content1,
+.content2,
+.content3 {
+    line-height: 200px;
+}
+
+.container {
+    justify-content: center;
+}
