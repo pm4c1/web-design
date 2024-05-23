@@ -1,0 +1,24 @@
+* {
+    font-family: "nanumSquareNeo";
+    text-align: center;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.logo,
+.nav,
+.banner,
+.notice,
+.gallery,
+.link,
+.footer1,
+.footer2-1,
+.footer2-2,
+#slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
