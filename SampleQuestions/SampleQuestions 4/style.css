@@ -128,3 +128,20 @@ img {
 #slider .imageWrap .image.i3 {
 	background-image: url(../images/slider03.jpg);
 }
+
+#slider .imageWrap .image .text {
+	background-color: #dead0c8f;
+	width: 100%;
+	padding: 20px;
+}
+
+#slider .imageWrap .image .text h2 {
+	color: #fff;
+	margin-bottom: 5px;
+	font-size: 30px;
+}
+
+#slider .imageWrap .image .text p {
+	color: #fff;
+	font-size: 16px;
+}
