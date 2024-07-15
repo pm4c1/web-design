@@ -95,3 +95,14 @@ img {
 #main {
 	width: calc(100% - 200px);
 }
+
+/* slider */
+#slider {
+	width: 100%;
+	display: flex;
+	overflow: hidden;
+}
+#slider .imageWrap {
+	width: calc(100% - 230px);
+	height: 400px;
+}
