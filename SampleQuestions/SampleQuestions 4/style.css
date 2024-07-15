@@ -60,3 +60,17 @@ img {
 #aside .nav > ul > li {
 	margin-bottom: 5px;
 }
+
+#aside .nav > ul > li > a {
+	padding: 10px;
+	display: inline-block;
+	background-color: #ffd139;
+	width: 100%;
+	text-align: center;
+	box-sizing: border-box;
+	border: 2px solid #dead0c;
+}
+
+#aside .nav > ul > li > a:hover {
+	text-decoration: underline;
+}
