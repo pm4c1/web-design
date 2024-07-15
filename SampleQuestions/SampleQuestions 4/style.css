@@ -116,3 +116,15 @@ img {
 	display: flex;
 	align-items: end;
 }
+
+#slider .imageWrap .image.i1 {
+	background-image: url(../images/slider01.jpg);
+}
+
+#slider .imageWrap .image.i2 {
+	background-image: url(../images/slider02.jpg);
+}
+
+#slider .imageWrap .image.i3 {
+	background-image: url(../images/slider03.jpg);
+}
