@@ -11,3 +11,12 @@ a {
 	text-decoration: none;
 	color: #333;
 }
+
+li {
+	list-style: none;
+}
+
+img {
+	width: 100%;
+	vertical-align: top;
+}
