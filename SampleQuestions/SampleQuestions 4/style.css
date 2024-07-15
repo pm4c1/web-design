@@ -52,3 +52,11 @@ img {
 #aside .nav {
 	height: 550px;
 }
+
+#aside .nav > ul {
+	margin: 5px;
+}
+
+#aside .nav > ul > li {
+	margin-bottom: 5px;
+}
