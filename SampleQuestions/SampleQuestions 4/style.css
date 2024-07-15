@@ -90,3 +90,8 @@ img {
 #aside .nav > ul > li > ul > li a:hover {
 	background-color: #ffe281;;
 }
+
+/* main */
+#main {
+	width: calc(100% - 200px);
+}
