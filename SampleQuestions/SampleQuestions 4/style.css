@@ -186,3 +186,97 @@ img {
 	width: 100%;
 	display: flex;
 }
+
+/* contents : notice */
+#contents .notice {
+	width: 50%;
+	height: 250px;
+	padding: 30px;
+	box-sizing: border-box;
+	background-color: #fff6d6;
+	position: relative;
+}
+
+#contents .notice h3 {
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+
+#contents .notice li {
+	display: flex;
+	line-height: 1.7;
+	position: relative;
+	padding-left: 16px;
+}
+
+#contents .notice li::before {
+	content: '';
+	width: 6px;
+	height: 6px;
+	background-color: #a58109;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	top: 8px;
+}
+
+#contents .notice li a {
+	width: 75%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+#contents .notice li a:hover {
+	text-decoration: underline;
+}
+
+#contents .notice li span {
+	width: 25%;
+	text-align: right;
+}
+
+#contents .notice .more {
+	position: absolute;
+	right: 30px;
+	top: 30px;
+}
+
+#contents .notice .more:hover {
+	text-decoration: underline;
+}
+
+/* contents : gallery */
+#contents .gallery {
+	width: 50%;
+	height: 250px;
+	padding: 30px;
+	box-sizing: border-box;
+}
+
+#contents .gallery h3 {
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+
+#contents .gallery ul {
+	display: flex;
+}
+
+#contents .gallery li {
+	width: 120px;
+	margin-right: 10px;
+}
+
+#contents .gallery li a {
+	display: block;
+}
+
+#contents .gallery li a span {
+	padding: 10px 0;
+	display: inline-block;
+}
+
+#contents .gallery li a span:hover {
+	text-decoration: underline;
+}
