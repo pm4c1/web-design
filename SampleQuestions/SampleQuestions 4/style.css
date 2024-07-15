@@ -74,3 +74,19 @@ img {
 #aside .nav > ul > li > a:hover {
 	text-decoration: underline;
 }
+
+#aside .nav > ul > li > ul {
+	display: none;
+}
+
+#aside .nav > ul > li > ul > li a {
+	display: block;
+	padding: 10px;
+	background-color: #ffebab;
+	text-align: center;
+	border-bottom: 2px solid #dead0c;
+}
+
+#aside .nav > ul > li > ul > li a:hover {
+	background-color: #ffe281;;
+}
