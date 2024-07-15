@@ -162,3 +162,21 @@ img {
 #slider .banner:hover {
 	border: 5px solid #ffd139;
 }
+
+#slider .banner h3 {
+	color: #fff;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+#slider .banner h3 em {
+	color: #ffd139;
+	font-style: normal;
+	display: block
+}
+
+#slider .banner a {
+	background-color: #fff;
+	padding: 10px 20px;
+	border-radius: 50px;
+}
