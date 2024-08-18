@@ -4,7 +4,7 @@ WebDesign(6)_Image(1-1)<br>
 ![image](https://github.com/user-attachments/assets/df78d15a-98f9-4c24-8d8a-e516523a3235)
 <br>WebDesign(6)_Image(1-3)<br>
 ![image](https://github.com/user-attachments/assets/e8b83e36-9b13-4139-ad4b-a8130cd2a971)
-<br>image(4)<br>
+<br>WebDesign(6)_Image(1-4)<br>
 ![image](https://github.com/user-attachments/assets/7e87e70d-b5a5-432b-92a2-55664a94e720)
 <br>image(5)<br>
 ![image](https://github.com/user-attachments/assets/18c071a7-b145-4e11-ae86-f5d234c7901d)
