@@ -8,7 +8,7 @@ WebDesign(1)_Image(1-1)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/d4ab1863-ebc2-44f8-80ff-c326eea37fb2)
 <br>WebDesign(1)_Image(1-5)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/3c7e42bf-6bf8-439d-ab5c-24847eef148c)
-<br>image(6)<br>
+<br>WebDesign(1)_Image(1-6)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/e6703341-8283-4e11-96ec-15daedcb7117)
 <br>image(7)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/6bebaf7d-4b90-48d4-bb4a-281a0f9dd0b5)
