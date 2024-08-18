@@ -6,7 +6,7 @@ WebDesign(3)_Image(1-1)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/3cf7394d-2c5d-40a9-b027-3b83f5803fe1)
 <br>WebDesign(3)_Image(1-4)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/f87a08df-b492-4ecf-b37c-fed82988a0d1)
-<br>image(5)<br>
+<br>WebDesign(3)_Image(1-5)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/8413d6be-6803-4350-8fd3-96287a8ce31c)
 <br>image(6)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/a73b2622-5ed2-4a11-bed0-6106abf45c5a)
