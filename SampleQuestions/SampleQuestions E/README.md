@@ -10,5 +10,5 @@ WebDesign(5)_Image(1-1)<br>
 ![image](https://github.com/user-attachments/assets/6c772efa-6baa-4f98-a291-eba39ed53e6d)
 <br>WebDesign(5)_Image(1-6)<br>
 ![image](https://github.com/user-attachments/assets/fb8fce3e-ea56-499e-8000-a6c65c95346d)
-<br>image(7)<br>
+<br>WebDesign(5)_Image(1-7)<br>
 ![image](https://github.com/user-attachments/assets/06ffbb26-a80d-43b1-94a7-06325e1d8bc4)
