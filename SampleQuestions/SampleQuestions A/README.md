@@ -42,12 +42,6 @@
 </details>
 <br>
 
-<br>WebDesign(1)_Image(1-4)<br>
-
-<br>WebDesign(1)_Image(1-5)<br>
-
-<br>WebDesign(1)_Image(1-6)<br>
-<br>WebDesign(1)_Image(1-7)<br>
 
 
 
