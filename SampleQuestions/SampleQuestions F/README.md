@@ -1,3 +1,5 @@
+<h1>웹디자인기능사 예제 문제 F</h1><br>
+
 WebDesign(6)_Image(1-1)<br>
 ![image](https://github.com/user-attachments/assets/91e98dff-18a7-4d68-9b0a-565bb9184e9d)
 <br>WebDesign(6)_Image(1-2)<br>
