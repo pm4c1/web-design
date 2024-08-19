@@ -26,25 +26,17 @@
 <details>
   <summary>WebDesign(5)_Image(1-5)</summary>
   
-  ![image](https://github.com/user-attachments/assets/8343808a-36fe-40ec-9e5b-12af3206b2f7)
+  ![image](https://github.com/user-attachments/assets/6c772efa-6baa-4f98-a291-eba39ed53e6d)
 </details>
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-6)</summary>
   
-  ![image](https://github.com/user-attachments/assets/903aa71c-5cbb-4b27-9782-cd22f1a02a25)
+  ![image](https://github.com/user-attachments/assets/fb8fce3e-ea56-499e-8000-a6c65c95346d)
 </details>
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-7)</summary>
   
-  ![image](https://github.com/user-attachments/assets/e6849018-bde3-4e31-a717-33284829f099)
+  ![image](https://github.com/user-attachments/assets/06ffbb26-a80d-43b1-94a7-06325e1d8bc4)
 </details>
-
-
-<br>WebDesign(5)_Image(1-5)<br>
-![image](https://github.com/user-attachments/assets/6c772efa-6baa-4f98-a291-eba39ed53e6d)
-<br>WebDesign(5)_Image(1-6)<br>
-![image](https://github.com/user-attachments/assets/fb8fce3e-ea56-499e-8000-a6c65c95346d)
-<br>WebDesign(5)_Image(1-7)<br>
-![image](https://github.com/user-attachments/assets/06ffbb26-a80d-43b1-94a7-06325e1d8bc4)
