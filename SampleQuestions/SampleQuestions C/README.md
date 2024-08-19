@@ -14,7 +14,7 @@
 <details>
   <summary>WebDesign(3)_Image(1-3)</summary>
   
-  ![image](https://github.com/pm4c1/web-design/assets/122862249/830660a1-3559-45be-bb06-ac0a52bd0e08)
+  ![image](https://github.com/pm4c1/web-design/assets/122862249/3cf7394d-2c5d-40a9-b027-3b83f5803fe1)
 </details>
 <br>
 <details>
@@ -41,8 +41,6 @@
   ![image](https://github.com/pm4c1/web-design/assets/122862249/d80f2d60-eb80-4686-a436-9b57b17a15d8)
 </details>
 
-<br>WebDesign(3)_Image(1-2)<br>
-![image](https://github.com/pm4c1/web-design/assets/122862249/3009404e-91fd-4166-8a09-f9c182da1e05)
 <br>WebDesign(3)_Image(1-3)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/3cf7394d-2c5d-40a9-b027-3b83f5803fe1)
 <br>WebDesign(3)_Image(1-4)<br>
