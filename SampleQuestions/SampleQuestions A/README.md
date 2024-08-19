@@ -3,15 +3,14 @@
   <summary>WebDesign(1)_Image(1-1)</summary>
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/7fdf851b-6591-4050-ae79-cd6f493bf983)
-  
 </details>
-
+<br>
 <details>
-  <summary>WebDesign(1)_Image(1-2</summary>
+  <summary>WebDesign(1)_Image(1-2)</summary>
   
+  ![image](https://github.com/pm4c1/web-design/assets/122862249/b9a89c39-81dc-4f5f-9543-6aa6822bccea)
 </details>
 
-![image](https://github.com/pm4c1/web-design/assets/122862249/b9a89c39-81dc-4f5f-9543-6aa6822bccea)
 <br>WebDesign(1)_Image(1-3)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/3f3d0f52-dae3-4a60-9abf-82da2bfc9b44)
 <br>WebDesign(1)_Image(1-4)<br>
