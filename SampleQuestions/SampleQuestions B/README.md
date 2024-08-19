@@ -26,13 +26,13 @@
 <details>
   <summary>WebDesign(2)_Image(1-5)</summary>
   
-  ![image](https://github.com/pm4c1/web-design/assets/122862249/3c7e42bf-6bf8-439d-ab5c-24847eef148c)
+  ![image](https://github.com/pm4c1/web-design/assets/122862249/83064585-3b30-4593-acd9-de772d16bdab)
 </details>
 <br>
 <details>
   <summary>WebDesign(2)_Image(1-6)</summary>
   
-  ![image](https://github.com/pm4c1/web-design/assets/122862249/e6703341-8283-4e11-96ec-15daedcb7117)
+  ![image](https://github.com/pm4c1/web-design/assets/122862249/c40d1aa2-db3f-49cf-bab6-a26da0963ae4)
 </details>
 <br>
 <details>
@@ -41,10 +41,6 @@
   ![image](https://github.com/pm4c1/web-design/assets/122862249/6bebaf7d-4b90-48d4-bb4a-281a0f9dd0b5)
 </details>
 
-<br>WebDesign(2)_Image(1-4)<br>
-![image](https://github.com/pm4c1/web-design/assets/122862249/3488ef12-6486-4a1f-88b6-587d5a7d3cd1)
-<br>WebDesign(2)_Image(1-5)<br>
-![image](https://github.com/pm4c1/web-design/assets/122862249/83064585-3b30-4593-acd9-de772d16bdab)
 <br>WebDesign(2)_Image(1-6)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/c40d1aa2-db3f-49cf-bab6-a26da0963ae4)
 <br>WebDesign(2)_Image(1-7)<br>
