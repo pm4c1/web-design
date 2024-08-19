@@ -40,8 +40,3 @@
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/af50a31b-fed3-444e-b117-c5e20033ecc4)
 </details>
-
-<br>WebDesign(3)_Image(1-6)<br>
-![image](https://github.com/pm4c1/web-design/assets/122862249/a73b2622-5ed2-4a11-bed0-6106abf45c5a)
-<br>WebDesign(3)_Image(1-7)<br>
-![image](https://github.com/pm4c1/web-design/assets/122862249/af50a31b-fed3-444e-b117-c5e20033ecc4)
