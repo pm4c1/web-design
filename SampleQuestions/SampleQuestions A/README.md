@@ -1,8 +1,8 @@
 <h1>웹디자인기능사 예제 문제 A</h1><br>
 <details>
   <summary>WebDesign(1)_Image(1-1)</summary>
+  ![image](https://github.com/pm4c1/web-design/assets/122862249/7fdf851b-6591-4050-ae79-cd6f493bf983)
 </details>
-![image](https://github.com/pm4c1/web-design/assets/122862249/7fdf851b-6591-4050-ae79-cd6f493bf983)
 <br>WebDesign(1)_Image(1-2)<br>
 ![image](https://github.com/pm4c1/web-design/assets/122862249/b9a89c39-81dc-4f5f-9543-6aa6822bccea)
 <br>WebDesign(1)_Image(1-3)<br>
