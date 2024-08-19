@@ -14,13 +14,13 @@
 <details>
   <summary>WebDesign(5)_Image(1-3)</summary>
   
-  ![image](https://github.com/user-attachments/assets/4c77d423-08e2-4c99-ae11-8bea5be20ea0)
+  ![image](https://github.com/user-attachments/assets/ff413a8d-f0a7-4923-8c5b-cab8a7afe0fc)
 </details>
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-4)</summary>
   
-  ![image](https://github.com/user-attachments/assets/9ab74f77-0416-47bf-9f20-9ba73457dcc4)
+  ![image](https://github.com/user-attachments/assets/0d7a3fb0-2b5e-411d-940c-570c8fc7c065)
 </details>
 <br>
 <details>
@@ -40,10 +40,8 @@
   
   ![image](https://github.com/user-attachments/assets/e6849018-bde3-4e31-a717-33284829f099)
 </details>
-<br>WebDesign(5)_Image(1-3)<br>
-![image](https://github.com/user-attachments/assets/ff413a8d-f0a7-4923-8c5b-cab8a7afe0fc)
-<br>WebDesign(5)_Image(1-4)<br>
-![image](https://github.com/user-attachments/assets/0d7a3fb0-2b5e-411d-940c-570c8fc7c065)
+
+
 <br>WebDesign(5)_Image(1-5)<br>
 ![image](https://github.com/user-attachments/assets/6c772efa-6baa-4f98-a291-eba39ed53e6d)
 <br>WebDesign(5)_Image(1-6)<br>
