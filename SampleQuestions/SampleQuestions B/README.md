@@ -1,5 +1,5 @@
 <h1>웹디자인기능사 예제 문제 B</h1><br>
-<h4>웹디자인 기능대회 대비 문제 2</h4>
+<h4>웹 디자인 기능대회 대비 문제 2</h4>
 <details>
   <summary>WebDesign(2)_Image(1-1)</summary>
   
