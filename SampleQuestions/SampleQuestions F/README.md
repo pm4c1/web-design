@@ -1,4 +1,4 @@
-<h1>웹디자인기능사 예제 문제 F</h1><br>
+<h1>웹 디자인기능사 예제 문제 F</h1><br>
 <h4>웹 디자인 기능대회 대비 문제 6</h4>
 <details>
   <summary>WebDesign(5)_Image(1-1)</summary>
