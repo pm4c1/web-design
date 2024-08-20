@@ -1,5 +1,5 @@
 <h1>웹디자인기능사 예제 문제 E</h1><br>
-<h4>웹디자인 기능대회 대비 문제5</h4>
+<h4>웹 디자인 기능대회 대비 문제5</h4>
 <details>
   <summary>WebDesign(5)_Image(1-1)</summary>
   
