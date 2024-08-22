@@ -9,7 +9,7 @@
 <br>
 <details>
   <summary>WebDesign(4)_Image(1-2)</summary>
-  문제2
+  문제2 (서울구석구석 image2)
   
   ![image](https://github.com/user-attachments/assets/c7946543-b417-4ec3-b360-2bfa7c03cba7)
 </details>
