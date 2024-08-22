@@ -9,7 +9,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-2)</summary>
-  문제2
+  문제2 (주식회사 기능건설 image2)
   
   ![image](https://github.com/user-attachments/assets/df78d15a-98f9-4c24-8d8a-e516523a3235)
 </details>
