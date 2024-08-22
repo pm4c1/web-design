@@ -2,7 +2,7 @@
 <h4>웹 디자인 기능대회 대비 문제 4</h4>
 <details>
   <summary>WebDesign(4)_Image(1-1)</summary>
-  문제1
+  문제1 (서울구석구석 image1)
   
   ![image](https://github.com/user-attachments/assets/5633828d-981e-4d48-b4c5-ed1441ffb03b)
 </details>
