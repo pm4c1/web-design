@@ -9,6 +9,7 @@
 <br>
 <details>
   <summary>WebDesign(1)_Image(1-2)</summary>
+  문제2
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/b9a89c39-81dc-4f5f-9543-6aa6822bccea)
 </details>
