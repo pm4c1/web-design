@@ -2,7 +2,7 @@
 <h4>웹 디자인 기능대회 대비 문제 5</h4>
 <details>
   <summary>WebDesign(5)_Image(1-1)</summary>
-  문제1
+  문제1 (철길 마을 image1)
   
   ![image](https://github.com/user-attachments/assets/20c5295b-9fec-4e5b-a722-d08af7f1181f)
 </details>
