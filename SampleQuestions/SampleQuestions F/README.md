@@ -44,6 +44,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-7)</summary>
+  문제7
   
   ![image](https://github.com/user-attachments/assets/c4d485cb-a2f7-4f15-9c39-26aef77a55d3)
 </details>
