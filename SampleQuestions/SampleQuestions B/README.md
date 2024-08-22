@@ -9,7 +9,7 @@
 <br>
 <details>
   <summary>WebDesign(2)_Image(1-2)</summary>
-  문제2
+  문제2 (산업대학교 image2)
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/7e21db32-dfee-449f-b710-731333224c51)
 </details>
