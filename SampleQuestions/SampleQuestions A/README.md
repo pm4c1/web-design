@@ -31,11 +31,13 @@
 <details>
   <summary>WebDesign(1)_Image(1-5)</summary>
   문제5
+  
   ![image](https://github.com/pm4c1/web-design/assets/122862249/3c7e42bf-6bf8-439d-ab5c-24847eef148c)
 </details>
 <br>
 <details>
   <summary>WebDesign(1)_Image(1-6)</summary>
+  문제6
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/e6703341-8283-4e11-96ec-15daedcb7117)
 </details>
