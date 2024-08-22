@@ -16,7 +16,7 @@
 <br>
 <details>
   <summary>WebDesign(2)_Image(1-3)</summary>
-  문제3
+  문제3 (산업대학교 image3)
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/830660a1-3559-45be-bb06-ac0a52bd0e08)
 </details>
