@@ -37,6 +37,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-6)</summary>
+  문제6
   
   ![image](https://github.com/user-attachments/assets/d2c9b1fd-4dfa-496b-8021-385e754b2d4d)
 </details>
