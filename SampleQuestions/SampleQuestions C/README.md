@@ -15,6 +15,7 @@
 <br>
 <details>
   <summary>WebDesign(3)_Image(1-3)</summary>
+  문제2
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/3cf7394d-2c5d-40a9-b027-3b83f5803fe1)
 </details>
