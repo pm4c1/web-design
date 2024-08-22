@@ -30,7 +30,7 @@
 <br>
 <details>
   <summary>WebDesign(1)_Image(1-5)</summary>
-  문제5
+  문제5 (강원천문대 image 5)
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/3c7e42bf-6bf8-439d-ab5c-24847eef148c)
 </details>
