@@ -9,7 +9,7 @@
 <br>
 <details>
   <summary>WebDesign(3)_Image(1-2)</summary>
-  문제2 (Vallery Festival image2)
+  문제3-2 (Vallery Festival image2)
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/3009404e-91fd-4166-8a09-f9c182da1e05)
 </details>
