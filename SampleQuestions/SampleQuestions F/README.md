@@ -16,7 +16,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-3)</summary>
-  문제3 (주식회사 기능건설 image3)
+  문제6-3 (주식회사 기능건설 image3)
   
   ![image](https://github.com/user-attachments/assets/e8b83e36-9b13-4139-ad4b-a8130cd2a971)
 </details>
