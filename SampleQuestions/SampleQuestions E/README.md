@@ -9,7 +9,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-2)</summary>
-  문제2 (철길 마을 image2)
+  문제5-2 (철길 마을 image2)
   
   ![image](https://github.com/user-attachments/assets/dbb00e76-37f6-4c77-8376-dae93d58c2f4)
 </details>
