@@ -30,7 +30,7 @@
 <br>
 <details>
   <summary>WebDesign(3)_Image(1-5)</summary>
-  문제3-5 (Vallery Festival image 3-5)
+  문제3-5 (Vallery Festival Image 3-5)
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/8413d6be-6803-4350-8fd3-96287a8ce31c)
 </details>
