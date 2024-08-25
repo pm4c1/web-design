@@ -30,7 +30,7 @@
 <br>
 <details>
   <summary>WebDesign(4)_Image(1-5)</summary>
-  문제4-5 (서울구석구석 image5)
+  문제4-5 (서울구석구석 image 4-5)
   
   ![image](https://github.com/user-attachments/assets/8343808a-36fe-40ec-9e5b-12af3206b2f7)
 </details>
