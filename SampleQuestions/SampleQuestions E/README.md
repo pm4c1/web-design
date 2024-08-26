@@ -37,7 +37,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-6)</summary>
-  문제5-6 (철길 마을 Image 5-6)
+  문제 5-6 (철길 마을 Image 5-6)
   
   ![image](https://github.com/user-attachments/assets/fb8fce3e-ea56-499e-8000-a6c65c95346d)
 </details>
