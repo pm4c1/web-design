@@ -44,7 +44,7 @@
 <br>
 <details>
   <summary>WebDesign(3)_Image(1-7)</summary>
-  문제 3-7 (Vallery Festival Image 3-7)
+  문제 3-7 ( Vallery Festival Image 3-7 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/af50a31b-fed3-444e-b117-c5e20033ecc4)
 </details>
