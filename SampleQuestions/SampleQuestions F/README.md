@@ -30,7 +30,7 @@
 <br>
 <details>
   <summary>WebDesign(5)_Image(1-5)</summary>
-  문제 6-5 (주식회사 기능건설 Image 6-5)
+  문제 6-5 ( 주식회사 기능건설 Image 6-5 )
   
   ![image](https://github.com/user-attachments/assets/18c071a7-b145-4e11-ae86-f5d234c7901d)
 </details>
