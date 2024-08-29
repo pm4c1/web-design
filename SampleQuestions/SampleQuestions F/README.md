@@ -2,7 +2,7 @@
 <h4>웹 디자인 기능대회 대비 문제 6</h4>
 <details>
   <summary>WebDesign(5)_Image(1-1)</summary>
-  문제 6-1 ( 주식회사 기능건설 Image 6-1 )
+  문제 6-1 ( 주식회사 기능건설_Image 6-1 )
   
   ![image](https://github.com/user-attachments/assets/91e98dff-18a7-4d68-9b0a-565bb9184e9d)
 </details>
