@@ -37,7 +37,7 @@
 <br>
 <details>
   <summary>WebDesign(1)_Image(1-6)</summary>
-  문제 1-6 ( 강원천문대 Image 1-6 )
+  문제 1-6 ( 강원천문대_Image 1-6 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/e6703341-8283-4e11-96ec-15daedcb7117)
 </details>
