@@ -8,7 +8,7 @@
 </details>
 <br>
 <details>
-  <summary>WebDesign(1)_Image(1-2)</summary>
+  <summary>Web_Design(1)_Image(1-2)</summary>
   문제 1-2 ( 강원천문대_Image 1-2 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/b9a89c39-81dc-4f5f-9543-6aa6822bccea)
