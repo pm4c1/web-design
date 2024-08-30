@@ -29,7 +29,7 @@
 </details>
 <br>
 <details>
-  <summary>WebDesign(5)_Image(1-5)</summary>
+  <summary>Web_Design(5)_Image(1-5)</summary>
   문제 5-5 ( 철길 마을_Image 5-5 )
   
   ![image](https://github.com/user-attachments/assets/6c772efa-6baa-4f98-a291-eba39ed53e6d)
