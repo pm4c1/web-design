@@ -1,7 +1,7 @@
 <h1>웹 디자인 기능사 예제 문제 C</h1><br>
 <h4>웹 디자인 기능대회 대비 문제 3</h4>
 <details>
-  <summary>WebDesign(3)_Image(1-1)</summary>
+  <summary>Web_Design(3)_Image(1-1)</summary>
   문제 3-1 ( Vallery Festival_Image 3-1 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/aaa7da82-6a68-4fea-866d-2f63f07c9eb8)
