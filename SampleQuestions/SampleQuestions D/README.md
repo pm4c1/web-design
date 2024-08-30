@@ -22,7 +22,7 @@
 </details>
 <br>
 <details>
-  <summary>WebDesign(4)_Image(1-4)</summary>
+  <summary>Web_Design(4)_Image(1-4)</summary>
   문제 4-4 ( 서울구석구석_Image 4-4 )
   
   ![image](https://github.com/user-attachments/assets/9ab74f77-0416-47bf-9f20-9ba73457dcc4)
