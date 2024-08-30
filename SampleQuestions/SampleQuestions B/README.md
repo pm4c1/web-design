@@ -1,7 +1,7 @@
 <h1>웹 디자인 기능사 예제 문제 B</h1><br>
 <h4>웹 디자인 기능대회 대비 문제 2</h4>
 <details>
-  <summary>WebDesign(2)_Image(1-1)</summary>
+  <summary>Web_Design(2)_Image(1-1)</summary>
   문제 2-1 ( 산업대학교_Image 2-1 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/55540bd0-d4f0-4a12-8781-fa52a299a594)
