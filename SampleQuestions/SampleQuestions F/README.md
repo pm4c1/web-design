@@ -43,7 +43,7 @@
 </details>
 <br>
 <details>
-  <summary>Web_Design(5)_Image(1-7)</summary>
+  <summary>Web_Design(6)_Image(1-7)</summary>
   문제 6-7 ( 주식회사 기능건설_Image 6-7 )
   
   ![image](https://github.com/user-attachments/assets/c4d485cb-a2f7-4f15-9c39-26aef77a55d3)
