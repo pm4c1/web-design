@@ -22,7 +22,7 @@
 </details>
 <br>
 <details>
-  <summary>WebDesign(3)_Image(1-4)</summary>
+  <summary>Web_Design(3)_Image(1-4)</summary>
   문제 3-4 ( Vallery Festival_Image 3-4 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/f87a08df-b492-4ecf-b37c-fed82988a0d1)
