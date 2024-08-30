@@ -1,7 +1,7 @@
 <h1>웹 디자인 기능사 예제 문제 A</h1><br>
 <h4>웹 디자인 기능대회 대비 문제 1</h4>
 <details>
-  <summary>WebDesign(1)_Image(1-1)</summary>
+  <summary>Web_Design(1)_Image(1-1)</summary>
   문제 1-1 ( 강원천문대_Image 1-1 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/7fdf851b-6591-4050-ae79-cd6f493bf983)
