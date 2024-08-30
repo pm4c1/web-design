@@ -22,7 +22,7 @@
 </details>
 <br>
 <details>
-  <summary>WebDesign(5)_Image(1-4)</summary>
+  <summary>Web_Design(5)_Image(1-4)</summary>
   문제 5-4 ( 철길 마을_Image 5-4 )
   
   ![image](https://github.com/user-attachments/assets/0d7a3fb0-2b5e-411d-940c-570c8fc7c065)
