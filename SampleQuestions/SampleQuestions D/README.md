@@ -8,7 +8,7 @@
 </details>
 <br>
 <details>
-  <summary>WebDesign(4)_Image(1-2)</summary>
+  <summary>Web_Design(4)_Image(1-2)</summary>
   문제 4-2 ( 서울구석구석_Image 4-2 )
   
   ![image](https://github.com/user-attachments/assets/c7946543-b417-4ec3-b360-2bfa7c03cba7)
