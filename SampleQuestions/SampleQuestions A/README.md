@@ -44,7 +44,7 @@
 <br>
 <details>
   <summary>Web_Design(1)_Image(1-7)</summary>
-  문제 1-7 ( 강원천문대_Image 1-7 )
+  문제 1-7 ( 강원천문대_Image_1-7 )
   
   ![image](https://github.com/pm4c1/web-design/assets/122862249/6bebaf7d-4b90-48d4-bb4a-281a0f9dd0b5)
 </details>
