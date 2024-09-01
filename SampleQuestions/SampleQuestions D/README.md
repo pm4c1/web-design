@@ -44,7 +44,7 @@
 <br>
 <details>
   <summary>Web_Design(4)_Image(1-7)</summary>
-  문제 4-7 ( 서울구석구석_Image 4-7 )
+  문제 4-7 ( 서울구석구석_Image_4-7 )
   
   ![image](https://github.com/user-attachments/assets/e6849018-bde3-4e31-a717-33284829f099)
 </details>
