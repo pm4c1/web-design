@@ -23,7 +23,7 @@
 <br>
 <details>
   <summary>Web_Design(6)_Image(1-4)</summary>
-  문제 6-4 ( 주식회사 기능건설_Image 6-4 )
+  문제 6-4 ( 주식회사 기능건설_Image_6-4 )
   
   ![image](https://github.com/user-attachments/assets/7e87e70d-b5a5-432b-92a2-55664a94e720)
 </details>
