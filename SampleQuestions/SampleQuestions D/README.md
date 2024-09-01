@@ -16,14 +16,14 @@
 <br>
 <details>
   <summary>Web_Design(4)_Image(1-3)</summary>
-  문제 4-3 ( 서울구석구석_Image 4-3 )
+  문제 4-3 ( 서울구석구석_Image_4-3 )
   
   ![image](https://github.com/user-attachments/assets/4c77d423-08e2-4c99-ae11-8bea5be20ea0)
 </details>
 <br>
 <details>
   <summary>Web_Design(4)_Image(1-4)</summary>
-  문제 4-4 ( 서울구석구석_Image 4-4 )
+  문제 4-4 ( 서울구석구석_Image_4-4 )
   
   ![image](https://github.com/user-attachments/assets/9ab74f77-0416-47bf-9f20-9ba73457dcc4)
 </details>
