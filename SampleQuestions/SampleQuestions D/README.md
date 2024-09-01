@@ -2,14 +2,14 @@
 <h4>웹 디자인 기능대회 대비 문제 4</h4>
 <details>
   <summary>Web_Design(4)_Image(1-1)</summary>
-  문제 4-1 ( 서울구석구석_Image 4-1 )
+  문제 4-1 ( 서울구석구석_Image_4-1 )
   
   ![image](https://github.com/user-attachments/assets/5633828d-981e-4d48-b4c5-ed1441ffb03b)
 </details>
 <br>
 <details>
   <summary>Web_Design(4)_Image(1-2)</summary>
-  문제 4-2 ( 서울구석구석_Image 4-2 )
+  문제 4-2 ( 서울구석구석_Image_4-2 )
   
   ![image](https://github.com/user-attachments/assets/c7946543-b417-4ec3-b360-2bfa7c03cba7)
 </details>
