@@ -16,7 +16,7 @@
 <br>
 <details>
   <summary>Web_Design(6)_Image(1-3)</summary>
-  문제 6-3 ( 주식회사 기능건설_Image 6-3 )
+  문제 6-3 ( 주식회사 기능건설_Image_6-3 )
   
   ![image](https://github.com/user-attachments/assets/e8b83e36-9b13-4139-ad4b-a8130cd2a971)
 </details>
